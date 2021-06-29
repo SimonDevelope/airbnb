@@ -109,7 +109,7 @@ html {
 .Info-content {
     white-space: normal !important;
 }
-.HeaderWrapper::before {
+/* .HeaderWrapper::before {
     background-image: -webkit-linear-gradient(to bottom, #000, rgba(0, 0, 0, 0)) !important;
     background-image: -moz-linear-gradient(to bottom, #000, rgba(0, 0, 0, 0)) !important;
     background-image: linear-gradient(to bottom, #000, rgba(0, 0, 0, 0)) !important;
@@ -150,7 +150,7 @@ html {
     -ms-transform: scaleY(3.05) !important;
     transform: scaleY(3.05) !important;
     opacity: 0 !important;
-}
+} */
 .MainHeaderInnerarea::before {
     display: flex !important;
     content: '' !important;
