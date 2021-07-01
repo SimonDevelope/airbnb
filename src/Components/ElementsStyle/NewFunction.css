@@ -1,0 +1,98 @@
+.Common-Contents-style::after {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    content: '' !important;
+}
+.Common-Contents-style::before {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    content: '' !important;
+}
+.To-be-host-total-view-wrapper {
+    display: block !important;
+    border: 0px none !important;
+    height: 400px !important;
+    padding: 0 80px 0;
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    position: relative;
+    background-repeat: no-repeat !important;
+
+}
+.To-be-host-address-wrapper {
+    cursor: pointer !important;
+    position: relative !important;
+    width: 100% !important;
+    height: 100% !important;
+    vertical-align: bottom !important;
+}
+.To-be-host-total-image-view {
+    position: relative;
+    background-size: cover !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.To-be-host-image-attr {
+    position: absolute !important;
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 8px !important;
+    object-fit: cover !important;
+    vertical-align: bottom !important;
+    left: 0px;
+    right: 0px;
+    height: 100% !important;
+    width: 100% !important;
+}
+.Inner-word-total-wrapper {
+    width: 512px !important;
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+    display: flex;
+    z-index: 1 !important;
+    position: absolute !important;
+    top: 0px !important;
+    flex-flow: column !important;
+}
+.title-outter-wrapper {
+    color: #ffffff !important;
+    font-size: 50px !important;
+    margin-top: 80px !important;
+}
+.title-font-attr {
+    font-size: 48px !important;
+    color: rgb(2555, 255, 255) !important;
+    font-weight: 600;
+}
+.contents-outter-wrapper {
+    line-height: 47px !important;
+    font-size: 18px !important;
+    color: #ffffff !important;
+    line-height: 24px !important;
+}
+.more-contents-btn-wrapper {
+    margin-top: 40px !important;
+}
+.Contents-button-attr {
+    font-size: 16px;
+    line-height: 20px;
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif !important;
+    cursor: pointer !important;
+    display: inline-block !important;
+    text-align: center !important;
+    font-weight: 600px !important;
+    border: 0px !important;
+    border-radius: 8px !important;
+    height: 48px !important;
+    width: 148px !important;
+    background-color: rgb(255, 255, 255) !important;
+}
+.Contents-button-inner-word-attr {
+    font-weight: 600 !important;
+}

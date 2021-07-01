@@ -1,0 +1,199 @@
+.Common-Contents-style::after {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    content: '' !important;
+}
+.Common-Contents-style::before {
+    display: -webkit-box !important;
+    display: -moz-box !important;
+    display: -ms-flexbox !important;
+    display: -webkit-flex !important;
+    display: flex !important;
+    content: '' !important;
+}
+.Footer-total-view-port {
+    background-color: white !important;
+    border-top: 1px solid #DDDDDD !important;
+    height: 100% !important;
+    margin-top: 30px !important;
+    background-color: #F7F7F7 !important;
+}
+.Footer-total-area-partition-attr {
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+}
+.Introduce-bnb-area-partition {
+    padding: 48px 0 !important;
+    height: 100% !important;
+    display: flex;
+    
+}
+.Personal-privacy-policy-area-partition {
+    border-top: 1px solid #DDDDDD !important;
+    background-color: #F7F7F7 !important;
+    height: 90px !important;
+    padding-top: 24px !important;
+    padding-bottom: 24px !important;
+    justify-content: space-between !important;
+    margin-bottom: 0 !important;
+}
+.Common-section-attr {
+    padding: 0 12px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+.Common-contents-title-attr {
+    font-weight: 600 !important;
+    font-size: 12px !important;
+}
+.Common-Inner-contents-list-attr {
+    display: block !important;
+    list-style: none !important;
+    padding-left: 0 !important;
+}
+.Common-list-items-attr {
+    display: block !important;
+    margin-top: 16px !important;
+}
+.Common-address-attr {
+    font-size: 14px !important;
+    line-height: 18px !important;
+    color: black !important;
+}
+.Policty-total-inner-wrapper {
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.Policy-left-container {
+    text-align: left !important;
+    overflow: hidden !important;
+    display: flex;
+}
+.Policy-right-container {
+    display: flex !important;
+}
+.Policy-address-common-attr {
+    display: inline-block !important;
+    color: #222222 !important;
+    text-decoration: none !important;
+    font-size: 14px !important;
+}
+.Airbnb-cop-privacy-word-attr {
+    color: #222222 !important;
+    font-size: 14px !important;
+}
+.Common-word-partition-attr {
+    display: inline-block !important;
+    width: 19px !important;
+}
+.World-Imoji-attr {
+    display: block !important;
+    height: 16px !important;
+    width: 16px !important;
+    color: #222222 !important;
+}
+.Left-container-at-right-inner-wrapper {
+    display: flex !important;
+}
+.left-box-address-wrapper {
+    display: flex !important;
+}
+.World-emoji-outter-wrapper {
+    margin-right: 8px !important;
+}
+.Total-outter-wrapper-A {
+    margin-right: 24px !important;
+}
+.Korea-money-emoji-wrapper {
+    margin-right: 8px !important;   
+    color: #222222 !important;
+}
+.Korean-language-attr {
+    color: #222222 !important;
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+}
+.KRW-word-attr {
+    font-weight: 600 !important;
+    text-decoration: underline !important;
+    color: #222222 !important;
+    font-weight: 600 !important;
+}
+.Right-container-at-right {
+    margin-left: 32px !important;
+}
+.Right-container-at-right-list-wrapper {
+    list-style: none !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    display: flex !important;
+}
+.Right-container-list-common-style-attr {
+    margin-right: 24px !important;
+}
+.Right-container-address-common-style-attr {
+    color: #222222 !important;
+    text-decoration: none !important;
+}
+.Right-container-common-svg-attr {
+    height: 18px !important;
+    width: 18px !important;
+    display: block !important;
+    color: #222222 !important;
+}
+.Right-container-common-svg-attr-N {
+    height: 18px !important;
+    width: 18px !important;
+    display: block !important;
+}
+.emoji-background {
+    fill: rgb(0, 199, 60) !important;
+}
+.inner-emoji {
+    fill: rgb(255, 255, 255) !important;
+}
+.inner-emoji-B {
+    fill: rgb(255, 129, 44) !important;
+}
+.last-emoji-attr-A{
+    fill: rgb(255, 255, 255);
+}
+.last-emoji-attr-B{
+    fill: rgb(0, 199, 60);
+}
+.last-emoji-attr-C{
+    fill: rgb(0, 199, 60);
+}
+.last-emoji-attr-D{
+    fill: rgb(0, 199, 60);
+}
+.last-emoji-attr-E{
+    fill: rgb(0, 199, 60);
+}
+.last-emoji-attr-F{
+    fill: rgb(0, 199, 60);
+}
+.last-emoji-attr-G{
+    fill: rgb(244, 228, 157);
+}
+.last-emoji-attr-H{
+    fill: rgb(0, 232, 49);
+}
+.last-emoji-attr-I{
+    fill: rgb(0, 199, 60);
+}
+.last-emoji-attr-J{
+    fill: rgb(255, 255, 255);
+}
+.last-emoji-attr-K{
+    fill: rgb(0, 163, 42);
+}
+.last-emoji-attr-L{
+    fill: rgb(224, 193, 65);
+}
+.last-emoji-attr-M {
+    fill: rgb(45, 45, 45);
+}

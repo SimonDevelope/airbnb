@@ -5,7 +5,7 @@ import Logo from './Elements/HeaderLogo';
 import Menu from './Elements/HeaderMenu';
 import My from './Elements/MyMenuSection';
 import Main from './Main';
-
+import Footer from './Footer';
 
 function Header () {
     const TotalViewContent = styled.div `
@@ -78,7 +78,8 @@ function Header () {
                     </MainHeaderInnerWrapper>
                 </MainHeaderOutterWrapper>
                 <Main />
-            </InenrTotalViewContent>       
+            </InenrTotalViewContent>
+            <Footer />
         </TotalViewContent>
     </>
     );   

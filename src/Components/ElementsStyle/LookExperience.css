@@ -199,6 +199,7 @@
 .Experience-total-images-view-port-wrapper {
     margin-top: 8px;
     margin-bottom: 8px;
+    width: 100% !important;
 }
 .Experience-total-images-inner-wrapper {
     position: relative !important;
@@ -208,22 +209,24 @@
     display: flex !important;
     height: 100% !important;
     list-style: none !important;
-    overflow: auto hidden !important;
+    overflow: hidden !important;
     padding-left: 0px !important;
     margin-bottom: 0px !important;
     margin-top: 0px !important;
     min-width: 100% !important;
     scroll-snap-type: x mandatory !important;
-    margin-left: -5px;
-    margin-right: -5px;
+    margin-left: -5px !important;
+    margin-right: -5px !important;
 }
 .Experience-first-image-total-wrapper{
     display: flex !important;
     padding-right: 12px;
+    width: 100% !important;
 }
 .Experience-second-image-total-wrapper {
     display: flex !important;
     padding-right: 12px;
+    width: 100% !important;
 }
 .Experience-first-image-inner-wrapper {
     width: 100% !important;
@@ -248,12 +251,8 @@
 .Experience-image-attr {
     height: 100% !important;
     width:100% !important;
-    border-radius: 8px !important;
     object-fit: cover !important;
-    background-position: 50% 50% !important;
-    background-repeat: no-repeat !important;
-    background: transparent !important;
-    overflow: clip !important;
+    border-radius: 8px !important;
 }
 .Experience-first-image-explain-wrapper {
     box-sizing: border-box !important;
@@ -271,4 +270,15 @@
 }
 .First-image-content-attr {
     color: rgb(34, 34, 34) !important;
+}
+.Experience-third-image-total-wrapper {
+    width: 100% !important;
+    border-width: 0px 5px !important;
+    max-width: 33.3333% !important;
+    flex: 0 0 33.3333% !important;
+    border-style: solid !important;
+    border-color: transparent !important;
+    scroll-snap-align: start !important;
+    scroll-snap-stop: always !important;
+    display: flex !important;
 }
